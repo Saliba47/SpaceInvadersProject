@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Controllers/LaserController.js">
+    <Files>
+      <File FileName="Assets/Controllers/speedController.js" Line="6" Column="27" />
+      <File FileName="Assets/Generator/speedGenerator.js" Line="15" Column="1" />
+      <File FileName="Assets/Controllers/healthController.js" Line="1" Column="1" />
+      <File FileName="Assets/Generator/healthGenerator.js" Line="1" Column="1" />
+      <File FileName="Assets/Controllers/SpaceshipController.js" Line="64" Column="14" />
+      <File FileName="Assets/Controllers/LaserController.js" Line="73" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
